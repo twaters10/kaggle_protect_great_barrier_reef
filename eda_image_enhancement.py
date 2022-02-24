@@ -281,7 +281,9 @@ plot_img(vid_0_dir, num_items1, RecoverCLAHE, 'cv2')
 
 plot_img_tf(vid_0_dir,num_items,tfa.image.equalize,"plt")
 
-
+"""
+Adding code for git commit
+"""
     
     
     
